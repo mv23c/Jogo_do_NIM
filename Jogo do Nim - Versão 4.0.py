@@ -171,7 +171,6 @@ def usuario_escolhe_jogada (n, m):
 
         #usuario_escolhe_jogada (n, m)
 
-# A lógica até aqui está correta
   else:
     #a = 1
     #b = 0 
